@@ -14,7 +14,13 @@ The code also uses
 ` Quan Wang (2021). Fast Gradient Vector Flow (GVF) (https://www.mathworks.com/matlabcentral/fileexchange/45896-fast-gradient-vector-flow-gvf), MATLAB Central File Exchange.Retrieved April 21, 2021. `
 It is downloadable from the mentioned link.
 
+ PRE-REQUISITES:
+ 
+ 1. MATLAB 2013B or higher.
+ 2. MEX should be configured for C/C++ compilation
+ 
  HOW TO USE:
  
  1. Enter image file location in line 6 of dirnOfLight.m (default image filename is testcase.png)
  2. Run dirOfLight.m 
+
