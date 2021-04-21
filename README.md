@@ -7,7 +7,7 @@ This is a small section of the code used in the above article, but its one I'm q
 Given a 2D image of a crater, the output is the direction of incident light.
 
 A small demonstration is given in the following video.
-[![Incident light direction on a crater](https://img.youtube.com/vi/watch?v=w_xunNwPHgU/0.jpg)](https://www.youtube.com/watch?v=w_xunNwPHgU)
+![](https://img.youtube.com/vi/watch?v=w_xunNwPHgU/0.jpg)](https://www.youtube.com/watch?v=w_xunNwPHgU)
 
 
 The code also uses 
