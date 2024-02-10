@@ -1,11 +1,11 @@
 # illumination-direction
----
+
 A way to figure out the direction of incident light (sunlight, is the usual culprit), given the image of a crater.
+Pretty useful as a setup for direction-based search.
 
-If you use the code, please cite
-`S. Sanyal, S. Palit and A. Banerjee: A hybrid approach to crater detection based on illumination direction, texture analysis and interpolation. 3rd IEEE International Conference on Electronics, Communication, Computer Technologies and Optimization Techniques, 14-15 December 2018, Mysuru, India.  DOI: 10.1109/ICEECCOT43722.2018.9001630 `
 
-This is a section of the code used in the above article.
+This is a section of the code used in the article 
+`S. Sanyal, S. Palit and A. Banerjee: A hybrid approach to crater detection based on illumination direction, texture analysis and interpolation. 3rd IEEE International Conference on Electronics, Communication, Computer Technologies and Optimization Techniques, 14-15 December 2018, Mysuru, India.  DOI: 10.1109/ICEECCOT43722.2018.9001630 `. If you use the code, please cite it.
 
 ---
 
